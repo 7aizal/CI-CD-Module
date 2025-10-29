@@ -1,0 +1,20 @@
+# key value pairs
+
+
+name: Mister Miah
+age: 26
+job: Developer
+
+# Lists
+
+fruits:
+- apple
+- banana 
+- cherry
+
+# nested elements
+
+address:  
+  street: 100 richmond street
+  city: london
+  country : UK
